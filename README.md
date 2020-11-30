@@ -1,4 +1,4 @@
-##PREDICTION-ARIMA
+# PREDICTION-ARIMA
 
 **ARIMA**, short for ‘AutoRegressive Integrated Moving Average’, is a forecasting algorithm based on the idea that the information in the past values of the time series 
 can alone be used to predict the future values.
@@ -7,13 +7,15 @@ Any ‘non-seasonal’ time series that exhibits patterns and is not a random wh
 We make a ARIMA forecast of the avocado prices in Spain.
 
 
-#Pre requirements 📋
+## Pre requirements 📋
+
+
 For this project, we need the following python libraries:
   Pandas, Numpy, Statsmodelapi, matplotlib, pmdarima, datetime
 
 And I use the data "C:/Users/manut/Downloads/AGUAC.csv"
 
-#Install Libraries 🔧
+## Install Libraries 🔧
 
 import pandas as pd
 from matplotlib import pyplot as plt
